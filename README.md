@@ -1,5 +1,7 @@
-# Keep it up to Date ( KiutD )
+# KiutDonut
 Update manager for as many package managers possible
+
+The name is an abbreviation of "__K__eep __i__t __u__p __t__o __D__ate, __o__therwise __n__o __u__seful __t__ools"
 
 ## Why?
 
@@ -14,3 +16,5 @@ This is made for, but not limited to, workstations. But I would _not_ recommend 
 ## Can I help?
 
 Yes, please! I am hoping for people to help out as much as possible. If it is to fix bugs, contribute with code for additional package managers etc.
+
+In need of an Icon! 
