@@ -1,7 +1,7 @@
 # KiutDonut
 Update manager for as many package managers possible
 
-The name is an abbreviation of "__K__eep __i__t __u__p __t__o __D__ate, __o__therwise __n__o __u__seful __t__ools"
+The name is an abbreviation of "**K**eep **i**t **u**p **t**o **D**ate, **o**therwise **n**o **u**seful **t**ools"
 
 ## Why?
 
@@ -17,4 +17,4 @@ This is made for, but not limited to, workstations. But I would _not_ recommend 
 
 Yes, please! I am hoping for people to help out as much as possible. If it is to fix bugs, contribute with code for additional package managers etc.
 
-In need of an Icon! 
+In need of an Icon! So if someone would like to create a svg illustration of a "cute donut" that would be great! For inspiration, do an image search on Google for "kawaii donut"
