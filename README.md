@@ -1,4 +1,4 @@
-# KiutD `Keep it up to Date`
+# Keep it up to Date ( KiutD )
 Update manager for as many package managers possible
 
 ## Why?
